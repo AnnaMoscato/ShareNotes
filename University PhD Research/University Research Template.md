@@ -1,3 +1,6 @@
+# 📚 Graduate Research Application Research Template
+
+Use this template to gather and compare graduate research application procedures at different universities. The structure is inspired by Monash University’s process.
 
 ## 1. ✅ Eligibility Requirements
 
